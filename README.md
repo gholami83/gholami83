@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gholami83
 - 👀 I’m interested in computer
 - 🌱 I’m currently learning js
-- 📫 How to reach me [...](https://github.com/gholami83)
+- 📫 How to reach me [github.com/gholami83](https://github.com/gholami83)
 
 <!---
 gholami83/gholami83 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
