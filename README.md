@@ -57,8 +57,8 @@ I'm a passionate frontend developer specializing in **Angular**, **TypeScript**,
 ## 📫 How to Reach Me
 
 - GitHub: [github.com/gholami83](https://github.com/gholami83)
-- LinkedIn: [Let's connect!](https://linkedin.com/in/yourprofile)
-- Email: [Your email](mailto:your.email@example.com)
+- LinkedIn: [Let's connect!](https://www.linkedin.com/in/hosein-gholami-84a532272/)
+- Email: (mailto:hosseinama1383@gmail.com)
 
 ---
 
