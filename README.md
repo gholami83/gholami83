@@ -65,10 +65,8 @@ I'm a passionate frontend developer specializing in **Angular**, **TypeScript**,
 ## 🎯 Featured Projects
 
 ### [game app](https://github.com/gholami83/app-game)
-Short description of your awesome Angular project.
 
 ### [financial management](https://github.com/ArshiaJalali/financial-management)
-Short description of another fantastic project.
 
 ---
 
