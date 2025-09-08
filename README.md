@@ -64,10 +64,10 @@ I'm a passionate frontend developer specializing in **Angular**, **TypeScript**,
 
 ## 🎯 Featured Projects
 
-### [Project Name 1](https://github.com/gholami83/project1)
+### [game app](https://github.com/gholami83/app-game)
 Short description of your awesome Angular project.
 
-### [Project Name 2](https://github.com/gholami83/project2)
+### [financial management](https://github.com/ArshiaJalali/financial-management)
 Short description of another fantastic project.
 
 ---
