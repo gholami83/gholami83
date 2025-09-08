@@ -73,7 +73,6 @@ I'm a passionate frontend developer specializing in **Angular**, **TypeScript**,
 
 Thanks for visiting my profile! 🚀
 
-https://komarev.com/ghpvc/?username=gholami83&style=flat-square&color=blueviolet
 </div><!-- Animated elements using GitHub Markdown --><p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=blueviolet&center=true&vCenter=true&width=435&lines=Angular+Developer;TypeScript+Expert;Frontend+Enthusiast;Open+to+Collaboration" alt="Typing SVG" /></a> </p><!-- Animated divider --><img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
 
 ---
