@@ -69,43 +69,12 @@ I'm a passionate frontend developer specializing in **Angular**, **TypeScript**,
 ### [financial management](https://github.com/ArshiaJalali/financial-management)
 
 ---
-
 <div align="center">
-  
-**Thanks for visiting my profile!** 🚀
 
-![Visitor Count](https://profile-counter.glitch.me/gholami83/count.svg)
+Thanks for visiting my profile! 🚀
 
-</div>
-
-<!-- Animation effect -->
-<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
-<script>
-  // This would be implemented in a separate JS file for a real implementation
-  // Typing animation simulation for demonstration purposes
-  document.addEventListener('DOMContentLoaded', function(){
-    // This is a simulation - actual implementation requires proper Typed.js initialization
-    console.log('Animation ready!');
-  });
-</script>
-
-<style>
-  /* Animation effects */
-  @keyframes fadeIn {
-    from { opacity: 0; }
-    to { opacity: 1; }
-  }
-  
-  img {
-    animation: fadeIn 2s;
-  }
-  
-  /* Hover effects */
-  .badge:hover {
-    transform: scale(1.1);
-    transition: transform 0.3s ease;
-  }
-</style>
+https://komarev.com/ghpvc/?username=gholami83&style=flat-square&color=blueviolet
+</div><!-- Animated elements using GitHub Markdown --><p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=blueviolet&center=true&vCenter=true&width=435&lines=Angular+Developer;TypeScript+Expert;Frontend+Enthusiast;Open+to+Collaboration" alt="Typing SVG" /></a> </p><!-- Animated divider --><img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%">
 
 ---
 
